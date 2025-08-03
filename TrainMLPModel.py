@@ -3,7 +3,7 @@ TrainMLPModel.py
 
 Functions for feature extraction from EcoFAB images and training an MLP classifier for root segmentation.
 
-Author: Margarita Helen Cordova Rojas
+Author: Margarita Cordova Rojas
 Date: 2025-08-03
 """
 
