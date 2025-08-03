@@ -3,7 +3,7 @@ ImageUtils.py
 
 This python file loads tif images and performs other helpful tasks for the images.
 
-Author: Margarita Helen Cordova Rojas
+Author: Margarita Cordova Rojas
 Date: 2025-08-03
 """
 
