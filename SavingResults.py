@@ -3,8 +3,8 @@ SavingResults.py
 
 Functions to create timestamped results folders and save binary prediction masks as PNG images.
 
-Author: Your Name
-Date: YYYY-MM-DD
+Author: Margarita Cordova Rojas
+Date: 2025-08-03
 """
 
 # ========== Imports ==========
