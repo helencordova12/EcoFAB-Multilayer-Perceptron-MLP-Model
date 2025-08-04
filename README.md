@@ -19,7 +19,16 @@ This project presents a lightweight alternative using a Multi-Layer Perceptron (
 
 🔄 Adaptable Pipeline: Easily extended to other root image datasets or simple segmentation tasks.
 
-Dataset
-Training Images: 10 annotated EcoFAB bottom-view images.
+# Dataset
+
+Total Images: 32 EcoFAB Root Scans
+
+- Training Set: 10 images
+
+- Testing Set: 22 images
+
+These images were obtained from EcoFAB bottom-view scans and annotated for semantic segmentation. The dataset was specifically chosen to evaluate performance under limited data conditions.
+
+
 
 Evaluation: Compared against results from a pretrained RhizoNET model.
