@@ -13,7 +13,7 @@ This project presents a lightweight alternative using a Multi-Layer Perceptron (
 
 🖥️ CPU-Trainable: Trains in ~16 minutes on a standard MacBook Air (no GPU needed).
 
-📊 Small Dataset Requirement: Trained on only 10 annotated EcoFAB bottom images (~84% smaller than RhizoNET’s 61-image training set).
+📊 Ideal for Small Datasets: Trained on only 10 annotated EcoFAB bottom images (~84% smaller than RhizoNET’s 61-image training set).
 
 ⚖️ Comparable Performance: Delivers segmentation performance similar to RhizoNET despite the simplified architecture.
 
