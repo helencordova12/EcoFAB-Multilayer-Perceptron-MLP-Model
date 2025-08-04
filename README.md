@@ -3,9 +3,9 @@ Automated Plant Root Segmentation: a Comparative Analysis between MLP Model and 
 
 # Overview
 
-Plant root segmentation is fundamental to plant research, providing detailed insights into root structure and development. Traditional deep learning models like RhizoNET offer high accuracy but require significant technical expertise and high-performance GPU resources for training and deployment.
+Plant root segmentation is a critical task in plant biology, offering insights into root morphology, growth patterns, and interactions with the environment. While advanced deep learning models like RhizoNET achieve high segmentation accuracy, they come with steep requirements — including expert knowledge and access to high-performance GPU hardware.
 
-This project presents a lightweight alternative using a Multi-Layer Perceptron (MLP) that simplifies the model-building process and enables efficient training on personal laptops.
+This project introduces a lightweight, accessible alternative using a Multi-Layer Perceptron (MLP) for EcoFAB root segmentation. The model is designed to be trained and deployed on standard hardware (e.g., MacBook Air), dramatically lowering the barrier to entry for researchers and students.
 
 # Key Features
 
