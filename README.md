@@ -5,7 +5,7 @@ Automated Plant Root Segmentation: a Comparative Analysis between MLP Model and 
 
 Plant root segmentation is fundamental to plant research, providing detailed insights into root structure and development. Traditional deep learning models like RhizoNET offer high accuracy but require significant technical expertise and high-performance GPU resources for training and deployment.
 
-RootSeg-MLP presents a lightweight alternative using a Multi-Layer Perceptron (MLP) architecture that simplifies the model-building process and enables efficient training on standard hardware.
+This project presents a lightweight alternative using a Multi-Layer Perceptron (MLP) architecture that simplifies the model-building process and enables efficient training on standard hardware.
 
 # Key Features
 
