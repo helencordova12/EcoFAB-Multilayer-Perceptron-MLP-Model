@@ -1,4 +1,4 @@
-# EcoFAB-MLP Root Segmentation Model
+# EcoFAB Root Segmentation Model (MLP Alternative Approach)
 Automated Plant Root Segmentation: a Comparative Analysis between MLP Model and RhizoNet
 
 # Overview
