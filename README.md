@@ -21,7 +21,7 @@ This project introduces a lightweight, accessible alternative using a Multi-Laye
 
 # Dataset
 
-Total Images: 32 EcoFAB Root Scans
+Total Images: 32 EcoFAB Root Scans (https://drive.google.com/drive/folders/16ef4EAABO6Aqolham6FyFzpA3cApq_Vy?usp=sharing)
 
 - Training Set: 10 images
 
